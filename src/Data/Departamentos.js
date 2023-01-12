@@ -1,0 +1,40 @@
+const Departamentos = 
+[
+   {value :'00',text:'NO APLICA'},
+   {value :'05',text:'ANTIOQUIA'},
+   {value :'08',text:'ATLÁNTICO'},
+   {value :'11',text:'BOGOTÁ, D.C.'},
+   {value :'13',text:'BOLÍVAR'},
+   {value :'15',text:'BOYACÁ'},
+   {value :'17',text:'CALDAS'},
+   {value :'18',text:'CAQUETÁ'},
+   {value :'19',text:'CAUCA'},
+   {value :'20',text:'CESAR'},
+   {value :'23',text:'CÓRDOBA'},
+   {value :'25',text:'CUNDINAMARCA'},
+   {value :'27',text:'CHOCÓ'},
+   {value :'41',text:'HUILA'},
+   {value :'44',text:'LA GUAJIRA'},
+   {value :'47',text:'MAGDALENA'},
+   {value :'50',text:'META'},
+   {value :'52',text:'NARIÑO'},
+   {value :'54',text:'NORTE DE SANTANDER'},
+   {value :'63',text:'QUINDIO'},
+   {value :'66',text:'RISARALDA'},
+   {value :'68',text:'SANTANDER'},
+   {value :'70',text:'SUCRE'},
+   {value :'73',text:'TOLIMA'},
+   {value :'76',text:'VALLE DEL CAUCA'},
+   {value :'81',text:'ARAUCA'},
+   {value :'85',text:'CASANARE'},
+   {value :'86',text:'PUTUMAYO'},
+   {value :'88',text:'ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA'},
+   {value :'91',text:'AMAZONAS'},
+   {value :'94',text:'GUAINÍA'},
+   {value :'95',text:'GUAVIARE'},
+   {value :'97',text:'VAUPÉS'},
+   {value :'99',text:'VICHADA'}
+
+]
+
+export default Departamentos
